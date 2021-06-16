@@ -10,7 +10,7 @@
 
 1.时间统计法原表：感谢同学们对本表函数的贡献，表格见本仓库。
 
-2.自动分类脚本：感谢TM01期学员[邦胜同学](https://github.com/Bancine)贡献，自动分类工具使用环境为python，安装与[使用说明见自动设置时间分类脚本仓库](https://github.com/Bancine/time_auto_classification)，点击进入下载最新main.py。main.py操作演示视频见本仓库。
+2.自动分类脚本：感谢TM01期学员[邦胜同学](https://github.com/Bancine)贡献，自动分类工具使用环境为python，安装与使用说明见[自动设置时间分类脚本仓库](https://github.com/Bancine/time_auto_classification)，点击进入下载最新main.py。main.py操作演示视频见本仓库。
 
 ## B.时间统计表使用说明：
 
