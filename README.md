@@ -8,7 +8,9 @@
 
 本课程核心软件资源：
 
-1.时间统计法原表：感谢同学们对本表的贡献，尤其感谢TM02期hAlex同学的贡献通过VBA实现了备注的自动分类。感谢TM01期学员[邦胜同学](https://github.com/Bancine)，最早使用python分类思路见[自动设置时间分类脚本仓库](https://github.com/Bancine/time_auto_classification)。其余同学参见C部分的更新说明。
+1.时间统计法原表：感谢同学们对本表的贡献，尤其感谢TM02期hAlex同学的贡献通过VBA实现了备注的自动分类，[Excel替换方法](https://note.youdao.com/ynoteshare/index.html?id=486a3c0918a0b1cde39e77b4448ab9e6&type=note&_time=1632325573492)。
+
+感谢TM01期学员[邦胜同学](https://github.com/Bancine)，最早使用python分类思路见[自动设置时间分类脚本仓库](https://github.com/Bancine/time_auto_classification)。其余同学参见C部分的更新说明。
 
 2.时间预算表模板：贡献者@JUN老师
 
